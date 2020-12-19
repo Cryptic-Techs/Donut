@@ -12,7 +12,7 @@
 [![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/Lunairia/Donut?color=blue&label=Commit%20Activity&logo=Commit%20Activity&logoColor=blue&style=flat-square)](https://github.com/Lunairia/Donut)
 
-[![Forks](https://img.shields.io/github/forks/Lunairia/Donut?color=black&label=Forks&logo=Forks&logoColor=black&style=flat-square)](https://github.com/Lunairia/Donut/network/members)
+[![Forks](https://img.shields.io/github/forks/Lunairia/Donut?color=blue&label=Forks&logo=Forks&logoColor=blue&style=flat-square)](https://github.com/Lunairia/Donut/network/members)
 [![Stars](https://img.shields.io/github/stars/Lunairia/Donut?color=yellow&label=Stars&logo=Stars&logoColor=yellow&style=flat-square)](https://github.com/Lunairia/Donut/stargazers/)
 [![Watchers](https://img.shields.io/github/watchers/Lunairia/Donut?color=rgb(20,140,20)&label=Watchers&logo=Watchers&logoColor=rgb(20,140,20)&style=flat-square)](https://github.com/Lunairia/Donut/watchers)
 
