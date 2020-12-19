@@ -2,7 +2,7 @@
 
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
-[![GitHub Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=red&logoColor=red&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
+[![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=red&logoColor=red&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/Lunairia/Donut?color=rgb%28230%2C230%2C230%29&label=Commit%20Activity&logo=Commit%20Activity&logoColor=rgb%28230%2C230%2C230%29&style=flat-square)](https://github.com/Lunairia/Donut)
 [![Stars](https://img.shields.io/github/stars/Lunairia/Donut?color=yellow&label=Stars&logo=Stars&logoColor=yellow&style=flat-square)](https://github.com/Lunairia/Donut/stargazers/)
 [![Forks](https://img.shields.io/github/forks/Lunairia/Donut?color=black&label=Forks&logo=Forks&logoColor=black&style=flat-square)](https://github.com/Lunairia/Donut/network/members)
@@ -96,7 +96,7 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 ## License
 
-Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/Docs/LICENSE.txt)** license.
+Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/Docs/LICENSE)** license.
 
 ## Link
 
