@@ -2,11 +2,16 @@
 
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
-[![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
+[![Last Stable Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=brightgreen&label=Last%20Stable%20Release&logo=Last%20Stable%20Release&logoColor=brightgreen&style=flat-square)](https://github.com/Lunairia/Donut/releases/latest)
+
+![Last Pre-Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=red&include_prereleases&label=Last%20Pre-Release&logo=Last%20Pre-Release&logoColor=red&style=flat-square)
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/Lunairia/Donut?color=blue&label=Commit%20Activity&logo=Commit%20Activity&logoColor=blue&style=flat-square)](https://github.com/Lunairia/Donut)
-[![Stars](https://img.shields.io/github/stars/Lunairia/Donut?color=yellow&label=Stars&logo=Stars&logoColor=yellow&style=flat-square)](https://github.com/Lunairia/Donut/stargazers/)
+[![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
+
 [![Forks](https://img.shields.io/github/forks/Lunairia/Donut?color=black&label=Forks&logo=Forks&logoColor=black&style=flat-square)](https://github.com/Lunairia/Donut/network/members)
-[![Watchers](https://img.shields.io/github/watchers/Lunairia/Donut?color=brightgreen&label=Watchers&logo=Watchers&logoColor=brightgreen&style=flat-square)](https://github.com/Lunairia/Donut/watchers)
+[![Stars](https://img.shields.io/github/stars/Lunairia/Donut?color=yellow&label=Stars&logo=Stars&logoColor=yellow&style=flat-square)](https://github.com/Lunairia/Donut/stargazers/)
+[![Watchers](https://img.shields.io/github/watchers/Lunairia/Donut?color=rgb(20,140,20)&label=Watchers&logo=Watchers&logoColor=rgb(20,140,20)&style=flat-square)](https://github.com/Lunairia/Donut/watchers)
+
 [![License](https://img.shields.io/github/license/Lunairia/Donut?color=lightgray&label=License&logo=License&logoColor=lightgray&style=flat-square)](https://github.com/Lunairia/Donut/blob/Default/LICENSE)
 
 > A pure CSS framework created by **Lunairia**
