@@ -2,6 +2,8 @@
 
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
+[![GitHub stars](https://img.shields.io/github/stars/Lunairia/Donut.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Lunairia/Donut/stargazers/)
+
 > A pure CSS framework created by **Lunairia**
 
 <b><ul>
