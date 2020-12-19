@@ -4,7 +4,7 @@
 
 [![Last Stable Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=brightgreen&label=Last%20Stable%20Release&logo=Last%20Stable%20Release&logoColor=brightgreen&style=flat-square)](https://github.com/Lunairia/Donut/releases/latest)
 
-![Last Pre-Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=red&include_prereleases&label=Last%20Pre-Release&logo=Last%20Pre-Release&logoColor=red&style=flat-square)
+[![Last Pre-Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=red&include_prereleases&label=Last%20Pre-Release&logo=Last%20Pre-Release&logoColor=red&style=flat-square)](https://github.com/Lunairia/Donut/releases/latest)
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/Lunairia/Donut?color=blue&label=Commit%20Activity&logo=Commit%20Activity&logoColor=blue&style=flat-square)](https://github.com/Lunairia/Donut)
 [![Milestone](https://img.shields.io/github/milestones/progress-percent/Lunairia/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square)](hhttps://github.com/Lunairia/Donut/milestone/1)
 
