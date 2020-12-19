@@ -2,8 +2,9 @@
 
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Lunairia/Donut.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Lunairia/Donut/stargazers/)
-[![GitHub Forks](https://img.shields.io/github/forks/Lunairia/Donut.svg?style=social&label=Forks&maxAge=2592000)](https://github.com/Lunairia/Donut/network/members)
+[![Stars](https://img.shields.io/github/stars/Lunairia/Donut?color=yellow&label=Stars&logo=Stars&logoColor=yellow&style=flat-square)](https://github.com/Lunairia/Donut/stargazers/)
+[![Forks](https://img.shields.io/github/forks/Lunairia/Donut?color=black&label=Forks&logo=Forks&logoColor=black&style=flat-square)](https://github.com/Lunairia/Donut/network/members)
+[![License](https://img.shields.io/github/license/Lunairia/Donut?color=red&label=License&logo=License&logoColor=red&style=flat-square)](https://github.com/Lunairia/Donut/blob/Default/LICENSE)
 
 > A pure CSS framework created by **Lunairia**
 
