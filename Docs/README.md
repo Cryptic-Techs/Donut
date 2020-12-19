@@ -96,7 +96,7 @@ tags will be stylized by Donut or non-stylized if they are not included in Donut
 
 ## License
 
-Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/Docs/LICENSE)** license.
+Donut is available under **[MIT](https://github.com/Lunairia/Donut/blob/Default/LICENSE)** license.
 
 ## Link
 
