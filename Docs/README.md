@@ -3,6 +3,7 @@
 [![Donut's Logo](https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg)](https://github.com/Lunairia/Donut/)
 
 [![Last Stable Release](https://img.shields.io/github/v/release/Lunairia/Donut?color=brightgreen&label=Last%20Stable%20Release&logo=Last%20Stable%20Release&logoColor=brightgreen&style=flat-square)](https://github.com/Lunairia/Donut/releases/latest)
+[![Bug Issues](https://img.shields.io/github/issues/Lunairia/Donut/Bug?label=Bug%20Issues&logo=Bug%20Issues&style=flat-square)](https://github.com/Lunairia/Donut/issues?q=is%3Aopen+is%3Aissue+label%3ABug)
 
 [![Issues](https://img.shields.io/github/issues/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues)
 [![Issues](https://img.shields.io/github/issues-closed/Lunairia/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues)
