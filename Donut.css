@@ -1,4 +1,4 @@
-@keyframes fade
+@keyrames fade
 {
 	from {opacity: 1;}
 	to {opacity: 0;}
@@ -6,7 +6,7 @@
 
 @keyframes fall
 {
-	0% {transform: translateY(-100px);}
+	from {transform: translateY(-100px);}
 	8% {transform: translateY(-98px);}
 	12% {transform: translateY(-95px);}
 	15% {transform: translateY(-91px);}
@@ -26,7 +26,18 @@
 	67% {transform: translateY(70px);}
 	70% {transform: translateY(90px);}
 	85% {transform: translateY(100px) scale(1.1,0.7);}
-	100% {transform: translateY(100px) scale(1.3,0.3);}
+	to {transform: translateY(100px) scale(1.3,0.3);}
+}
+
+@keyframes rubberBand
+{
+	from {transform: scale3d(1,1,1);}
+	30% {transform: scale3d(1.25,0.75,1);}
+	40% {transform: scale3d(0.75,1.25,1);}
+	50% {transform: scale3d(1.15,0.85,1);}
+	65% {transform: scale3d(0.95,1.05,1);}
+	75% {transform: scale3d(1.05,0.95,1);}
+	to {transform: scale3d(1,1,1);}
 }
 
 body,
@@ -35,6 +46,7 @@ donut
 	display: block;
 	background: rgb(240,240,245);
 	color: black;
+	word-wrap: break-word;
 }
 
 donut,
@@ -52,7 +64,7 @@ donut *
 	-webkit-tap-highlight-color: transparent;
 	background: none;
 	color: black;
-	font-family: Avenir Next, Avenir, Futura;
+	font-family: "Avenir Next", Avenir, Futura;
 	font-size: 1em;
 	font-style: normal;
 	font-weight: normal;
@@ -71,6 +83,15 @@ donut *:active,
 donut *:focus
 {
 	outline: none;
+}
+
+donut .selectable,
+donut .selectable *
+{
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
 }
 
 donut p,
@@ -223,7 +244,7 @@ donut img,
 donut .img
 {
 	max-width: 100%;
-	border-radius: 8px;
+	border-radius: 5px;
 }
 
 donut ::placeholder
@@ -291,7 +312,10 @@ donut li
 
 donut table
 {
+	display: block;
 	border-collapse: collapse;
+	max-width: 100%;
+	overflow: scroll;
 }
 
 donut th,
@@ -342,7 +366,7 @@ donut .code,
 donut code > *,
 donut .code > *
 {
-	font-family: "Bitstream Vera Sans Mono","DejaVu Sans Mono",Menlo!important;
+	font-family: "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Menlo;
 }
 
 donut code,
@@ -356,6 +380,7 @@ donut .code
 	border-radius: 4px;
 	margin: 5px 0;
 	padding: 3px 5px;
+	vertical-align: -0.8em;
 	overflow: scroll;
 }
 
