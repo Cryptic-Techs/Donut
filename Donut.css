@@ -41,7 +41,15 @@
 }
 
 body,
-donut
+donut,
+button,
+.button,
+btn,
+.btn,
+textarea,
+.textarea,
+code,
+.code
 {
 	display: block;
 	background: rgb(240,240,245);
@@ -63,7 +71,6 @@ donut *
 	-webkit-touch-callout: none;
 	-webkit-tap-highlight-color: transparent;
 	background: none;
-	color: black;
 	font-family: "Avenir Next", Avenir, Futura;
 	font-size: 1em;
 	font-style: normal;
@@ -486,7 +493,14 @@ donut .note[type="critical"]
 	
 	body,
 	donut,
-	donut *
+	button,
+	.button,
+	btn,
+	.btn,
+	textarea,
+	.textarea,
+	code,
+	.code
 	{
 		color: white;
 		border-color: white;
