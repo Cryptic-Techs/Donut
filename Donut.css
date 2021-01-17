@@ -90,7 +90,7 @@ donut
 {
 	width: 100%;
 	max-width: 500px;
-	padding-left: calc(100% - 500px);
+	margin: auto;
 }
 
 donut *:active,
