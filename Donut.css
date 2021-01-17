@@ -86,6 +86,13 @@ donut *
 	outline: none;
 }
 
+donut
+{
+	width: 100%;
+	max-width: 500px;
+	padding-left: calc(100% - 500px);
+}
+
 donut *:active,
 donut *:focus
 {
