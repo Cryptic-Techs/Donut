@@ -278,6 +278,7 @@ donut .textaea
 	display: inline-block;
 	resize: none;
 	background: rgba(155,155,155,0.15);
+	color: inherit;
 	text-align: center;
 	margin: 3px;
 	padding: 2px 8px;
