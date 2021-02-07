@@ -24,12 +24,17 @@ donut[theme="classic-light"] .code
 	word-wrap: break-word;
 }
 
+donut[theme="classic-light"],
+donut[theme="classic-light"] *
+{
+	font-family: "Avenir Next", Avenir, Futura;
+}
+
 donut[theme="classic-light"]
 {
 	display: block;
 	width: 100%;
-	max-width: 500px;
-	font-family: "Avenir Next", Avenir, Futura;
+	max-width: 750px;
 	margin: auto;
 }
 
