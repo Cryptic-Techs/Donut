@@ -1,0 +1,26 @@
+donut,
+donut *
+{
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	-webkit-touch-callout: none;
+	-webkit-tap-highlight-color: transparent;
+	background: none;
+	font-size: 1em;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	vertical-align: baseline;
+	border: none;
+	border-radius: 0;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+}
