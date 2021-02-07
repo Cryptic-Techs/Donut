@@ -24,8 +24,8 @@ donut[theme="classic"] .code
 	word-wrap: break-word;
 }
 
-donut[theme="classic-light"],
-donut[theme="classic-light"] *
+donut[theme="classic"],
+donut[theme="classic"] *
 {
 	font-family: "Avenir Next", Avenir, Futura;
 }
