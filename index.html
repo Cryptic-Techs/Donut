@@ -4,21 +4,24 @@
 	
 	<head>
 		
-		<title>Cryptic Technologies | Donut</title>
+		<title>Donut</title>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="initial-scale=1" />
 		<meta name="robots" content="index,follow" />
 		<meta name="author" content="Cryptic Technologies" />
 		<meta name="description" content="Donut, a pure CSS framework." />
-		<meta property="og:title" content="Cryptic Technologies | Donut" />
+		<meta property="og:title" content="Donut" />
 		<meta property="og:description" content="Donut, a pure CSS framework." />
-		<meta property="og:url" content="https://cryptic-techs.github.io/Donut" />
+		<meta property="og:url" content="https://cryptic-techs.github.io/Donut/" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:image" content="https://raw.githubusercontent.com/Cryptic-Techs/Cryptic/Default/Donut's%20Logo.jpg" />
 		<meta property="og:type" content="website" />
-		<meta property="og:site_name" content="Cryptic Technologies | Donut" />
+		<meta property="og:site_name" content="Donut" />
 		
-		<link rel="stylesheet" href="Donut.min.css" />
+		<script src="Donut.js"></script>
+		
+		<link href="index.css" rel="stylesheet" />
+		<script src="index.js"></script>
 		
 		<script src="https://kit.fontawesome.com/d7730cd825.js" crossorigin="anonymous"></script>
 		
@@ -26,7 +29,9 @@
 	
 	<body>
 		
-		<donut>
+		<donut theme="classic">
+			
+			<div id="zone"></div>
 			
 			<img src="https://raw.githubusercontent.com/Lunairia/Lunar/Default/Donut's%20Logo.jpg" />
 			
@@ -34,12 +39,12 @@
 				
 				<h3>Summary</h3>
 				
-				<div style="display: flex; justify-content: center; align-items: cennter;">
+				<div style="display: flex; justify-content: center; align-items: center;">
 					
 					<ol>
 						
 						<li><a href="#intro">What's Donut ?</a></li>
-						<li><a href="https://cryptic-techs.github.io/Donut/Documentation">Documentation</a></li>
+						<li><a href="Docs/index.html">Documentation</a></li>
 						<li><a href="#labels">Labels</a></li>
 						<li><a href="#links">Links</a></li>
 						
@@ -62,15 +67,10 @@
 			<a href="https://github.com/Cryptic-Techs/Donut/releases/latest"><img src="https://img.shields.io/github/v/release/Cryptic-Techs/Donut?color=brightgreen&label=Last%20Stable%20Release&logo=Last%20Stable%20Release&logoColor=brightgreen&style=flat-square" alt="Last Stable Release" /></a>
 			<a href="https://github.com/Cryptic-Techs/Donut/issues?q=is%3Aopen+is%3Aissue+label%3ABug"><img src="https://img.shields.io/github/issues/Cryptic-Techs/Donut/Bug?label=Bug%20Issues&logo=Bug%20Issues&style=flat-square" alt="Bug Issues" /></a>
 			<br />
-			<a href="https://github.com/Cryptic-Techs/Donut/Donut.min.css"><img src="https://img.shields.io/github/size/Cryptic-Techs/Donut/Donut.min.css?label=Size%20of%20Minified%20Version&logo=Size%20of%20Minified%20Version&style=flat-square" alt="Size of Minified Version" /></a>
-			<br />
 			<a href="https://github.com/Cryptic-Techs/Donut/issues?q=is%3Aissue+is%3Aopen"><img src="https://img.shields.io/github/issues/Cryptic-Techs/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square" alt="Openned Issues" /></a>
-			<a href="https://github.com/Cryptic-Techs/Donut/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/Cryptic-Techs/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square)](https://github.com/Lunairia/Donut/issues?q=is%3Aissue+is%3Aclosed" alt="Closed Issues" /></a>
+			<a href="https://github.com/Cryptic-Techs/Donut/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/Cryptic-Techs/Donut?color=orange&label=Issues&logo=Issues&logoColor=orange&style=flat-square" alt="Closed Issues" /></a>
 			<a href="https://github.com/Cryptic-Techs/Donut/pulls?q=is%3Apr+is%3Aopen"><img src="https://img.shields.io/github/issues-pr/Cryptic-Techs/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square" alt="Openned Pull-Request" /></a>
 			<a href="https://github.com/Cryptic-Techs/Donut/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/Cryptic-Techs/Donut?color=orange&label=Pull%20Requests&logo=Pull%20Requests&logoColor=orange&style=flat-square" alt="Closed Pull-Request" /></a>
-			<br />
-			<a href="https://github.com/Cryptic-Techs/Donut/milestone/1"><img src="https://img.shields.io/github/milestones/progress-percent/Cryptic-Techs/Donut/1?color=blueviolet&logoColor=blueviolet&style=flat-square" alt="2.0" /></a>
-			<a href="https://github.com/Cryptic-Techs/Donut/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/m/Cryptic-Techs/Donut?color=blue&label=Commit%20Activity&logo=Commit%20Activity&logoColor=blue&style=flat-square" alt="Commit Activity" /></a>
 			<br />
 			<a href="https://github.com/Cryptic-Techs/Donut/graphs/contributors"><img src="https://img.shields.io/github/contributors/Cryptic-Techs/Donut?color=gray&label=Contributors&logo=Contributors&logoColor=gray&style=flat-square" alt="Contributors" /></a>
 			<a href="https://github.com/Cryptic-Techs/Donut/stargazers/"><img src="https://img.shields.io/github/stars/Cryptic-Techs/Donut?color=yellow&label=Stars&logo=Stars&logoColor=yellow&style=flat-square" alt="Stars" /></a>
@@ -85,13 +85,13 @@
 			
 			<ul>
 				
-				<li><a href="https://cryptic-techs.github.io/Cryptic">Cryptic Technologies</a></li>
+				<li><a href="https://cryptic-techs.github.io/Cryptic/">Cryptic Technologies</a></li>
 				
-				<li><i class="fab fa-github"></i> <a href="https://github.com/Cryptic-Techs/Donut">Donut</a></li>
+				<li><span class="fab fa-github"></span> <a href="https://github.com/Cryptic-Techs/Donut/">Donut</a></li>
 				
-				<li><i class="fab fa-github"></i> <a href="https://github.com/Cryptic-Techs">Cryptic Technologies</a></li>
+				<li><span class="fab fa-github"></span> <a href="https://github.com/Cryptic-Techs/">Cryptic Technologies</a></li>
 				
-				<li><i class="fab fa-github"></i> <a href="https://github.com/Wixonic">Wixonic</a></li>
+				<li><span class="fab fa-github"></span> <a href="https://github.com/Wixonic/">Wixonic</a></li>
 				
 			</ul>
 			
