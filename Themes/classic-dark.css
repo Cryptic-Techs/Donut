@@ -5,8 +5,7 @@ donut[theme="classic-dark"]
 }
 
 body,
-donut[theme="classic-dark"],
-donut[theme="classic-dark"] *
+donut[theme="classic-dark"]
 {
 	font-family: "Avenir Next", Avenir, Futura;
 	border-color: white;
