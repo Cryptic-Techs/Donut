@@ -1,8 +1,71 @@
+body,
 donut[theme="office"]
 {
 	display: block;
-	width: 100%;
-	max-width: 750px;
+	width: calc(100vw - 10px);
 	font-family: Arial;
-	margin: auto;
+	margin: 0;
+	padding: 5px;
+}
+
+donut[theme="office"] b,
+donut[theme="office"] a,
+donut[theme="office"] h1,
+donut[theme="office"] h2,
+donut[theme="office"] h3,
+donut[theme="office"] h4,
+donut[theme="office"] h5
+{
+    font-weight: bold;
+}
+
+donut[theme="office"] h1
+{
+	font-size: 2em;
+	margin-bottom: 15px;
+}
+
+donut[theme="office"] h2
+{
+	font-size: 1.6em;
+	margin-bottom: 10px;
+}
+
+donut[theme="office"] h3
+{
+	font-size: 1.3em;
+	margin-bottom: 5px;
+}
+
+donut[theme="office"] h4
+{
+	font-size: 1.15em;
+	margin-bottom: 5px;
+}
+
+donut[theme="office"] h5
+{
+	font-size: 1.1em;
+	margin-bottom: 5px;
+}
+
+donut[theme="office"] a
+{
+    color: rgb(25,80,255);
+}
+
+donut[theme="office"] a:visited
+{
+	text-decoration: none!important;
+}
+
+donut[theme="office"] a:hover
+{
+	text-decoration: underline;
+}
+
+donut[theme="office"] img
+{
+    max-width: 100%;
+	border-radius: 5px;
 }
