@@ -1,0 +1,521 @@
+body,
+donut[theme="classic"]
+{
+	background: rgb(240,240,245);
+}
+
+body,
+donut[theme="classic"],
+donut[theme="classic"] button,
+donut[theme="classic"] .button,
+donut[theme="classic"] btn,
+donut[theme="classic"] .btn,
+donut[theme="classic"] input,
+donut[theme="classic"] .input,
+donut[theme="classic"] textarea,
+donut[theme="classic"] .textarea,
+donut[theme="classic"] select,
+donut[theme="classic"] .select,
+donut[theme="classic"] code,
+donut[theme="classic"] .code
+{
+	display: block;
+	color: black;
+	word-wrap: break-word;
+}
+
+donut[theme="classic"]
+{
+	display: block;
+	width: 100%;
+	max-width: 500px;
+	font-family: "Avenir Next", Avenir, Futura;
+	margin: auto;
+}
+
+donut[theme="classic"] *:active,
+donut[theme="classic"] *:focus
+{
+	outline: none;
+}
+
+donut[theme="classic"] .selectable,
+donut[theme="classic"] .selectable *
+{
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
+}
+
+donut[theme="classic"] p,
+donut[theme="classic"] .p
+{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+donut[theme="classic"] b,
+donut[theme="classic"] .b
+{
+	font-weight: bold;
+}
+
+donut[theme="classic"] u,
+donut[theme="classic"] .u
+{
+	text-decoration: underline;
+}
+
+donut[theme="classic"] o,
+donut[theme="classic"] .o
+{
+	text-decoration: overline;
+}
+
+donut[theme="classic"] i,
+donut[theme="classic"] .i
+{
+	font-style: italic;
+}
+
+donut[theme="classic"] sub,
+donut[theme="classic"] .sub,
+donut[theme="classic"] sup,
+donut[theme="classic"] .sup
+{
+	font-size: 0.65em;
+}
+
+donut[theme="classic"] sub,
+donut[theme="classic"] .sub
+{
+	vertical-align: sub;
+}
+
+donut[theme="classic"] sup,
+donut[theme="classic"] .sup
+{
+	vertical-align: super;
+}
+
+donut[theme="classic"] h1,
+donut[theme="classic"] .h1,
+donut[theme="classic"] h2,
+donut[theme="classic"] .h2,
+donut[theme="classic"] h3,
+donut[theme="classic"] .h3
+{
+	font-weight: bold;
+	margin: 5px 0;
+}
+
+donut[theme="classic"] h1,
+donut[theme="classic"] .h1,
+donut[theme="classic"] h2,
+donut[theme="classic"] .h2
+{
+	border-bottom: 1px solid;
+}
+
+donut[theme="classic"] h1,
+donut[theme="classic"] .h1
+{
+	font-size: 2em;
+}
+
+donut[theme="classic"] h2,
+donut[theme="classic"] .h2
+{
+	font-size: 1.6em;
+}
+
+donut[theme="classic"] h3,
+donut[theme="classic"] .h3
+{
+	font-size: 1.2em;
+}
+
+donut[theme="classic"] button,
+donut[theme="classic"] .button,
+donut[theme="classic"] btn,
+donut[theme="classic"] .btn
+{
+	display: inline-block;
+	font-weight: bold;
+	font-size: 0.85em;
+	background: rgb(155,155,155,0.1);
+	border: 1px solid transparent;
+	border-radius: 8px;
+	margin: 2px;
+	padding: 3px 8px;
+	transition: 200ms;
+}
+
+donut[theme="classic"] button:hover,
+donut[theme="classic"] .button:hover,
+donut[theme="classic"] btn:hover,
+donut[theme="classic"] .btn:hover
+{
+	border: 1px solid black;
+}
+
+donut[theme="classic"] button:active,
+donut[theme="classic"] .button:active,
+donut[theme="classic"] btn:active,
+donut[theme="classic"] .btn:active
+{
+	background: none;
+	border-color: transparent;
+}
+
+donut[theme="classic"] a,
+donut[theme="classic"] .a
+{
+	display: inline;
+	color: rgb(50,150,255);
+	font-weight: bold;
+	transition: 200ms;
+}
+
+donut[theme="classic"] a:hover,
+donut[theme="classic"] .a:hover
+{
+	color: rgb(50,150,255);
+	text-decoration: underline;
+	background: none;
+}
+
+donut[theme="classic"] a:active,
+donut[theme="classic"] .a:active
+{
+	color: white;
+	background: rgb(50,150,255);
+}
+
+donut[theme="classic"] img,
+donut[theme="classic"] .img
+{
+	max-width: 100%;
+	border-radius: 5px;
+}
+
+donut[theme="classic"] ::placeholder
+{
+	color: rgba(155,155,155,0.8);
+}
+
+donut[theme="classic"] input,
+donut[theme="classic"] .input,
+donut[theme="classic"] textarea,
+donut[theme="classic"] .textaea
+{
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
+	display: inline-block;
+	resize: none;
+	background: rgba(155,155,155,0.15);
+	color: inherit;
+	text-align: center;
+	margin: 3px;
+	padding: 2px 8px;
+}
+
+donut[theme="classic"] input,
+donut[theme="classic"] .input
+{
+	border-radius: 10px;
+}
+
+donut[theme="classic"] textarea,
+donut[theme="classic"] .textarea
+{
+	border-radius: 3px;
+}
+
+donut[theme="classic"] ::marker
+{
+	width: 20px;
+	font-weight: bold;
+}
+
+donut[theme="classic"] ol > ol > li,
+donut[theme="classic"] ul > ul > li
+{
+	margin: 10px 0px 10px 40px;
+}
+
+donut[theme="classic"] ol > ol > ol > li,
+donut[theme="classic"] ul > ul > ul > li
+{
+	margin: 10px 0px 10px 60px;
+}
+
+donut[theme="classic"] ol > ol > ol > ol > li,
+donut[theme="classic"] ul > ul > ul > ul > li
+{
+	margin: 10px 0px 10px 80px;
+}
+
+donut[theme="classic"] li
+{
+	margin: 10px 0px 10px 20px;
+}
+
+donut[theme="classic"] table
+{
+	display: block;
+	border-collapse: collapse;
+	max-width: 100%;
+	overflow: scroll;
+}
+
+donut[theme="classic"] th,
+donut[theme="classic"] td
+{
+	text-align: center;
+	border: 1px solid;
+	padding: 5px;
+}
+
+donut[theme="classic"] tr:first-child > th,
+donut[theme="classic"] tr:first-child > td
+{
+	border-top: none;
+}
+
+donut[theme="classic"] tr:last-child > th,
+donut[theme="classic"] tr:last-child > td
+{
+	border-bottom: none;
+}
+
+donut[theme="classic"] th:first-child,
+donut[theme="classic"] td:first-child
+{
+	border-left: none;
+}
+
+donut[theme="classic"] th:last-child,
+donut[theme="classic"] td:last-child
+{
+	border-right: none;
+}
+
+donut[theme="classic"] th
+{
+	font-weight: bold;
+	border-color: black;
+}
+
+donut[theme="classic"] td
+{
+	border-color: rgb(155,155,155,0.3);
+}
+
+donut[theme="classic"] code,
+donut[theme="classic"] .code,
+donut[theme="classic"] code > *,
+donut[theme="classic"] .code > *
+{
+	font-family: "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Menlo;
+}
+
+donut[theme="classic"] code,
+donut[theme="classic"] .code
+{
+	display: inline-block;
+	max-width: calc(100% - 10px);
+	background: rgba(155,155,155,0.1);
+	font-size: 0.8em;
+	white-space: nowrap;
+	border-radius: 4px;
+	margin: 5px 0;
+	padding: 3px 5px;
+	vertical-align: -0.8em;
+	overflow: scroll;
+}
+
+donut[theme="classic"] code > red,
+donut[theme="classic"] .code > red
+{
+	color: rgb(255,0,0);
+}
+
+donut[theme="classic"] code > orange,
+donut[theme="classic"] .code > orange
+{
+	color: rgb(230,140,0);
+}
+
+donut[theme="classic"] code > yellow,
+donut[theme="classic"] .code > yellow
+{
+	color: rgb(200,200,0);
+}
+
+donut[theme="classic"] code > lime,
+donut[theme="classic"] .code > lime
+{
+	color: rgb(20,210,20);
+}
+
+donut[theme="classic"] code > green,
+donut[theme="classic"] .code > green
+{
+	color: rgb(0,150,0);
+}
+
+donut[theme="classic"] code > aqua,
+donut[theme="classic"] .code > aqua
+{
+	color: rgb(50,150,255);
+}
+
+donut[theme="classic"] code > blue,
+donut[theme="classic"] .code > blue
+{
+	color: rgb(0,25,200);
+}
+
+donut[theme="classic"] code > gray,
+donut[theme="classic"] .code > gray
+{
+	color: rgb(200,200,200);
+}
+
+donut[theme="classic"] note,
+donut[theme="classic"] .note
+{
+	display: inline-block;
+	background: rgba(255,255,0,0.2);
+	color: rgb(200,200,0);
+	border-left: 1px solid rgb(200,200,0);
+	border-radius: 0 6px 6px 0;
+	margin: 2px 0;
+	padding: 2px 6px;
+}
+
+donut[theme="classic"] note[type="comment"],
+donut[theme="classic"] .note[type="comment"]
+{
+	background: rgba(200,200,200,0.2);
+	color: rgb(155,155,155);
+	border-color: rgb(155,155,155);
+}
+
+donut[theme="classic"] note[type="info"],
+donut[theme="classic"] .note[type="info"]
+{
+	background: rgba(100,200,255,0.2);
+	color: rgb(50,150,255);
+	border-color: rgb(50,150,255);
+}
+
+donut[theme="classic"] note[type="warning"],
+donut[theme="classic"] .note[type="warning"]
+{
+	background: rgba(255,200,0,0.2);
+	color: rgb(255,155,0);
+	border-color: rgb(255,155,0);
+}
+
+donut[theme="classic"] note[type="critical"],
+donut[theme="classic"] .note[type="critical"]
+{
+	background: rgba(255,50,20,0.2);
+	color: rgb(255,50,20);
+	border-color: rgb(255,50,20);
+}
+
+@media (prefers-color-scheme: dark)
+{
+	donut[theme="classic"],
+	body
+	{
+		background: rgb(20,20,25);
+	}
+	
+	body,
+	donut[theme="classic"],
+	donut[theme="classic"] button,
+	donut[theme="classic"] .button,
+	donut[theme="classic"] btn,
+	donut[theme="classic"] .btn,
+	donut[theme="classic"] input,
+	donut[theme="classic"] .input,
+	donut[theme="classic"] textarea,
+	donut[theme="classic"] .textarea,
+	donut[theme="classic"] select,
+	donut[theme="classic"] .select,
+	donut[theme="classic"] code,
+	donut[theme="classic"] .code
+	{
+		color: white;
+		border-color: white;
+	}
+	
+	donut[theme="classic"] button:hover,
+	donut[theme="classic"] .button:hover,
+	donut[theme="classic"] btn:hover,
+	donut[theme="classic"] .btn:hover
+	{
+		border: 1px solid white;
+	}
+	
+	donut[theme="classic"] th
+	{
+		border-color: white;
+	}
+	
+	donut[theme="classic"] code > red,
+	donut[theme="classic"] .code > red
+	{
+		color: rgb(255,100,80);
+	}
+	
+	donut[theme="classic"] code > orange,
+	donut[theme="classic"] .code > orange
+	{
+		color: rgb(255,170,100);
+	}
+	
+	donut[theme="classic"] code > yellow,
+	donut[theme="classic"] .code > yellow
+	{
+		color: rgb(255,255,100);
+	}
+	
+	donut[theme="classic"] code > lime,
+	donut[theme="classic"] .code > lime
+	{
+		color: rgb(150,255,150);
+	}
+	
+	donut[theme="classic"] code > green,
+	donut[theme="classic"] .code > green
+	{
+		color: rgb(60,200,60);
+	}
+	
+	donut[theme="classic"] code > aqua,
+	donut[theme="classic"] .code > aqua
+	{
+		color: rgb(100,200,255);
+	}
+	
+	donut[theme="classic"] code > blue,
+	donut[theme="classic"] .code > blue
+	{
+		color: rgb(0,100,255);
+	}
+	
+	donut[theme="classic"] code > gray,
+	donut[theme="classic"] .code > gray
+	{
+		color: rgb(100,100,100);
+	}
+}

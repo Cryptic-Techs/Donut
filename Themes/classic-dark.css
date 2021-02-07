@@ -1,0 +1,439 @@
+body,
+donut[theme="classic-dark"]
+{
+	background: rgb(20,20,25);
+}
+
+body,
+donut[theme="classic-dark"],
+donut[theme="classic-dark"] *
+{
+	border-color: white;
+}
+
+body,
+donut[theme="classic-dark"],
+donut[theme="classic-dark"] button,
+donut[theme="classic-dark"] .button,
+donut[theme="classic-dark"] btn,
+donut[theme="classic-dark"] .btn,
+donut[theme="classic-dark"] input,
+donut[theme="classic-dark"] .input,
+donut[theme="classic-dark"] textarea,
+donut[theme="classic-dark"] .textarea,
+donut[theme="classic-dark"] select,
+donut[theme="classic-dark"] .select,
+donut[theme="classic-dark"] code,
+donut[theme="classic-dark"] .code
+{
+	display: block;
+	color: white;
+	word-wrap: break-word;
+}
+
+donut[theme="classic-dark"]
+{
+	display: block;
+	width: 100%;
+	max-width: 500px;
+	font-family: "Avenir Next", Avenir, Futura;
+	margin: auto;
+}
+
+donut[theme="classic-dark"] *:active,
+donut[theme="classic-dark"] *:focus
+{
+	outline: none;
+}
+
+donut[theme="classic-dark"] .selectable,
+donut[theme="classic-dark"] .selectable *
+{
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
+}
+
+donut[theme="classic-dark"] p,
+donut[theme="classic-dark"] .p
+{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+donut[theme="classic-dark"] b,
+donut[theme="classic-dark"] .b
+{
+	font-weight: bold;
+}
+
+donut[theme="classic-dark"] u,
+donut[theme="classic-dark"] .u
+{
+	text-decoration: underline;
+}
+
+donut[theme="classic-dark"] o,
+donut[theme="classic-dark"] .o
+{
+	text-decoration: overline;
+}
+
+donut[theme="classic-dark"] i,
+donut[theme="classic-dark"] .i
+{
+	font-style: italic;
+}
+
+donut[theme="classic-dark"] sub,
+donut[theme="classic-dark"] .sub,
+donut[theme="classic-dark"] sup,
+donut[theme="classic-dark"] .sup
+{
+	font-size: 0.65em;
+}
+
+donut[theme="classic-dark"] sub,
+donut[theme="classic-dark"] .sub
+{
+	vertical-align: sub;
+}
+
+donut[theme="classic-dark"] sup,
+donut[theme="classic-dark"] .sup
+{
+	vertical-align: super;
+}
+
+donut[theme="classic-dark"] h1,
+donut[theme="classic-dark"] .h1,
+donut[theme="classic-dark"] h2,
+donut[theme="classic-dark"] .h2,
+donut[theme="classic-dark"] h3,
+donut[theme="classic-dark"] .h3
+{
+	font-weight: bold;
+	margin: 5px 0;
+}
+
+donut[theme="classic-dark"] h1,
+donut[theme="classic-dark"] .h1,
+donut[theme="classic-dark"] h2,
+donut[theme="classic-dark"] .h2
+{
+	border-bottom: 1px solid;
+}
+
+donut[theme="classic-dark"] h1,
+donut[theme="classic-dark"] .h1
+{
+	font-size: 2em;
+}
+
+donut[theme="classic-dark"] h2,
+donut[theme="classic-dark"] .h2
+{
+	font-size: 1.6em;
+}
+
+donut[theme="classic-dark"] h3,
+donut[theme="classic-dark"] .h3
+{
+	font-size: 1.2em;
+}
+
+donut[theme="classic-dark"] button,
+donut[theme="classic-dark"] .button,
+donut[theme="classic-dark"] btn,
+donut[theme="classic-dark"] .btn
+{
+	display: inline-block;
+	font-weight: bold;
+	font-size: 0.85em;
+	background: rgb(155,155,155,0.1);
+	border: 1px solid transparent;
+	border-radius: 8px;
+	margin: 2px;
+	padding: 3px 8px;
+	transition: 200ms;
+}
+
+donut[theme="classic-dark"] button:hover,
+donut[theme="classic-dark"] .button:hover,
+donut[theme="classic-dark"] btn:hover,
+donut[theme="classic-dark"] .btn:hover
+{
+	border: 1px solid white;
+}
+
+donut[theme="classic-dark"] button:active,
+donut[theme="classic-dark"] .button:active,
+donut[theme="classic-dark"] btn:active,
+donut[theme="classic-dark"] .btn:active
+{
+	background: none;
+	border-color: transparent;
+}
+
+donut[theme="classic-dark"] a,
+donut[theme="classic-dark"] .a
+{
+	display: inline;
+	color: rgb(50,150,255);
+	font-weight: bold;
+	transition: 200ms;
+}
+
+donut[theme="classic-dark"] a:hover,
+donut[theme="classic-dark"] .a:hover
+{
+	color: rgb(50,150,255);
+	text-decoration: underline;
+	background: none;
+}
+
+donut[theme="classic-dark"] a:active,
+donut[theme="classic-dark"] .a:active
+{
+	color: white;
+	background: rgb(50,150,255);
+}
+
+donut[theme="classic-dark"] img,
+donut[theme="classic-dark"] .img
+{
+	max-width: 100%;
+	border-radius: 5px;
+}
+
+donut[theme="classic-dark"] ::placeholder
+{
+	color: rgba(155,155,155,0.8);
+}
+
+donut[theme="classic-dark"] input,
+donut[theme="classic-dark"] .input,
+donut[theme="classic-dark"] textarea,
+donut[theme="classic-dark"] .textaea
+{
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
+	display: inline-block;
+	resize: none;
+	background: rgba(155,155,155,0.15);
+	color: inherit;
+	text-align: center;
+	margin: 3px;
+	padding: 2px 8px;
+}
+
+donut[theme="classic-dark"] input,
+donut[theme="classic-dark"] .input
+{
+	border-radius: 10px;
+}
+
+donut[theme="classic-dark"] textarea,
+donut[theme="classic-dark"] .textarea
+{
+	border-radius: 3px;
+}
+
+donut[theme="classic-dark"] ::marker
+{
+	width: 20px;
+	font-weight: bold;
+}
+
+donut[theme="classic-dark"] ol > ol > li,
+donut[theme="classic-dark"] ul > ul > li
+{
+	margin: 10px 0px 10px 40px;
+}
+
+donut[theme="classic-dark"] ol > ol > ol > li,
+donut[theme="classic-dark"] ul > ul > ul > li
+{
+	margin: 10px 0px 10px 60px;
+}
+
+donut[theme="classic-dark"] ol > ol > ol > ol > li,
+donut[theme="classic-dark"] ul > ul > ul > ul > li
+{
+	margin: 10px 0px 10px 80px;
+}
+
+donut[theme="classic-dark"] li
+{
+	margin: 10px 0px 10px 20px;
+}
+
+donut[theme="classic-dark"] table
+{
+	display: block;
+	border-collapse: collapse;
+	max-width: 100%;
+	overflow: scroll;
+}
+
+donut[theme="classic-dark"] th,
+donut[theme="classic-dark"] td
+{
+	text-align: center;
+	border: 1px solid;
+	padding: 5px;
+}
+
+donut[theme="classic-dark"] tr:first-child > th,
+donut[theme="classic-dark"] tr:first-child > td
+{
+	border-top: none;
+}
+
+donut[theme="classic-dark"] tr:last-child > th,
+donut[theme="classic-dark"] tr:last-child > td
+{
+	border-bottom: none;
+}
+
+donut[theme="classic-dark"] th:first-child,
+donut[theme="classic-dark"] td:first-child
+{
+	border-left: none;
+}
+
+donut[theme="classic-dark"] th:last-child,
+donut[theme="classic-dark"] td:last-child
+{
+	border-right: none;
+}
+
+donut[theme="classic-dark"] th
+{
+	font-weight: bold;
+	border-color: white;
+}
+
+donut[theme="classic-dark"] td
+{
+	border-color: rgb(155,155,155,0.3);
+}
+
+donut[theme="classic-dark"] code,
+donut[theme="classic-dark"] .code,
+donut[theme="classic-dark"] code > *,
+donut[theme="classic-dark"] .code > *
+{
+	font-family: "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Menlo;
+}
+
+donut[theme="classic-dark"] code,
+donut[theme="classic-dark"] .code
+{
+	display: inline-block;
+	max-width: calc(100% - 10px);
+	background: rgba(155,155,155,0.1);
+	font-size: 0.8em;
+	white-space: nowrap;
+	border-radius: 4px;
+	margin: 5px 0;
+	padding: 3px 5px;
+	vertical-align: -0.8em;
+	overflow: scroll;
+}
+
+donut[theme="classic-dark"] code > red,
+donut[theme="classic-dark"] .code > red
+{
+	color: rgb(255,100,80);
+}
+
+donut[theme="classic-dark"] code > orange,
+donut[theme="classic-dark"] .code > orange
+{
+	color: rgb(255,170,100);
+}
+
+donut[theme="classic-dark"] code > yellow,
+donut[theme="classic-dark"] .code > yellow
+{
+	color: rgb(255,255,100);
+}
+
+donut[theme="classic-dark"] code > lime,
+donut[theme="classic-dark"] .code > lime
+{
+	color: rgb(150,255,150);
+}
+
+donut[theme="classic-dark"] code > green,
+donut[theme="classic-dark"] .code > green
+{
+	color: rgb(60,200,60);
+}
+
+donut[theme="classic-dark"] code > aqua,
+donut[theme="classic-dark"] .code > aqua
+{
+	color: rgb(100,200,255);
+}
+
+donut[theme="classic-dark"] code > blue,
+donut[theme="classic-dark"] .code > blue
+{
+	color: rgb(0,100,255);
+}
+
+donut[theme="classic-dark"] code > gray,
+donut[theme="classic-dark"] .code > gray
+{
+	color: rgb(100,100,100);
+}
+
+donut[theme="classic-dark"] note,
+donut[theme="classic-dark"] .note
+{
+	display: inline-block;
+	background: rgba(255,255,0,0.2);
+	color: rgb(200,200,0);
+	border-left: 1px solid rgb(200,200,0);
+	border-radius: 0 6px 6px 0;
+	margin: 2px 0;
+	padding: 2px 6px;
+}
+
+donut[theme="classic-dark"] note[type="comment"],
+donut[theme="classic-dark"] .note[type="comment"]
+{
+	background: rgba(200,200,200,0.2);
+	color: rgb(155,155,155);
+	border-color: rgb(155,155,155);
+}
+
+donut[theme="classic-dark"] note[type="info"],
+donut[theme="classic-dark"] .note[type="info"]
+{
+	background: rgba(100,200,255,0.2);
+	color: rgb(50,150,255);
+	border-color: rgb(50,150,255);
+}
+
+donut[theme="classic-dark"] note[type="warning"],
+donut[theme="classic-dark"] .note[type="warning"]
+{
+	background: rgba(255,200,0,0.2);
+	color: rgb(255,155,0);
+	border-color: rgb(255,155,0);
+}
+
+donut[theme="classic-dark"] note[type="critical"],
+donut[theme="classic-dark"] .note[type="critical"]
+{
+	background: rgba(255,50,20,0.2);
+	color: rgb(255,50,20);
+	border-color: rgb(255,50,20);
+}
