@@ -1,1 +1,8 @@
-
+donut[theme="tech"]
+{
+	display: block;
+	width: 100%;
+	max-width: 750px;
+	font-family: "Avenir Next", Avenir, Futura;
+	margin: auto;
+}
