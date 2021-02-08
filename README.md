@@ -1,6 +1,6 @@
 [![Donut's Logo](https://raw.githubusercontent.com/Cryptic-Techs/Cryptic/Default/Donut's%20Logo.jpg)](https://github.com/Cryptic-Techs/Donut/)
 
-> A pure CSS framework created by **Cryptic Technologies**
+> A CSS framework created by **Cryptic Technologies**
 
 [![Last Stable Release](https://img.shields.io/github/v/release/Cryptic-Techs/Donut?color=brightgreen&label=Last%20Stable%20Release&logo=Last%20Stable%20Release&logoColor=brightgreen&style=flat-square)](https://github.com/Cryptic-Techs/Donut/releases/latest)
 [![Bug Issues](https://img.shields.io/github/issues/Cryptic-Techs/Donut/Bug?label=Bug%20Issues&logo=Bug%20Issues&style=flat-square)](https://github.com/Cryptic-Techs/Donut/issues?q=is%3Aopen+is%3Aissue+label%3ABug)
